@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Chatify</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="access_token">Access Token</string>
+    <string name="notification_testing">Notification Testing</string>
+    <string name="send">Send</string>
+    <string name="change_language">Change Language</string>
+    <string name="text">Developers always prefer clean and structured code for projects. Organizing the codes according to a design pattern helps in the maintenance of the software. By having knowledge of all crucial logic parts of the android application, it is easier to add and remove app features. Further, design patterns also assure that all the codes get covered in Unit Testing without the interference of other classes.</string>
+</resources>

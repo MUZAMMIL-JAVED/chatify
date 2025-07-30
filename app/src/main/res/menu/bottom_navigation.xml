@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <item android:id="@+id/notification"
+        android:title="Notification"
+        android:icon="@drawable/bell"
+        android:orderInCategory="1"
+        tools:ignore="HardcodedText" />
+
+    <item android:id="@+id/chat"
+        android:title="Chat"
+        android:icon="@drawable/chat"
+        android:orderInCategory="2"
+        tools:ignore="HardcodedText,UnusedAttribute" />
+
+
+    <item android:id="@+id/profile"
+        android:title="Profile"
+        android:icon="@drawable/profile"
+        android:orderInCategory="3"
+        tools:ignore="HardcodedText" />
+
+</menu>
